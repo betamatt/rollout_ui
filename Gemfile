@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
+source 'https://rails-assets.org'
 
 # Specify your gem's dependencies in rollout_ui.gemspec
 gemspec

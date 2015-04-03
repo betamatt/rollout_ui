@@ -8,11 +8,12 @@ GIT
 PATH
   remote: .
   specs:
-    rollout_ui (0.2.0)
+    rollout_ui (0.3.0)
       rollout
 
 GEM
   remote: http://rubygems.org/
+  remote: https://rails-assets.org/
   specs:
     actionmailer (3.1.1)
       actionpack (= 3.1.1)

@@ -23,6 +23,10 @@ Add it to your gemfile:
 
     gem "rollout_ui"
 
+Add source for asset dependencies:
+
+    source 'https://rails-assets.org'
+
 Wrap your rollout instance:
 
     $rollout = Rollout.new($redis)
